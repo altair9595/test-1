@@ -1,0 +1,28 @@
+.body{
+    font-family: 'Baloo 2', cursive;
+font-family: 'Rowdies', cursive;
+}
+
+.navbar-collapse{
+    padding-left: 547px;
+   background-color: white
+}
+.große-font{
+    
+
+        font-size: 56px;
+    font-weight: 700;
+}
+.img-size{
+    height: 47px;
+    
+}
+.text-center{
+    margin-top: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    background: #0083ff;
+     font-weight: 400;
+     font-size: 20px;
+}
